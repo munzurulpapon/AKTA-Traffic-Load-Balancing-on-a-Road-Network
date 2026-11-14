@@ -129,3 +129,8 @@ The request has 3 vehicles. Path 1 gets 2 of them. It has length 14, goes throug
 - Runtime values (ms) depend on the computer.
 - Parameter ranges used in the report: K = 5, B = 4, alpha = 0.5, beta = 10, H = 10.
 - If beta / alpha is 1 or less, AKTA behaves almost like SPR; a larger beta / alpha gives more load balancing and more distance.
+
+# Report Link
+https://drive.google.com/file/d/1DSUWhzHr1GSx3gG88Fc34DdWVdWpKINN/view?usp=drive_link
+
+
